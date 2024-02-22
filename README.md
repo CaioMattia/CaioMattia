@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Caio Aka Mattizzic and I'm a Roblox Dev from Brazil.</p>
+<p align="left">My name is Caio Aka Mattizzic and I'm a C Dev from Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating roblox games since 2022 <br>📚 I'm currently learning C, Python and Lua <br>🎯 Goals: Finally publish a game <br>🎲 Fun fact: I never published a game, just helped some friends with game design and coding.</p>
+<p align="left">✨ Creating C programs since 2024 <br>📚 I'm currently learning C <br>🎯 Goals: Finally publish a game <br>🎲 Fun fact: I never published a game, just helped some friends with game design and coding.</p>
 
 ###
 
@@ -21,9 +21,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
 ###

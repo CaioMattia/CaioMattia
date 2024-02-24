@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Caio Aka Mattizzic and I'm a C Dev from Brazil.</p>
+<p align="left">My name is Caio and I'm from brazil.</p>
 
 ###
 

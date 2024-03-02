@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left"> <br>📚 I'm currently learning C, Python, HTML and CSS <br>🎯 Goals: Finally publish a game <br>🎲 Fun fact: I never published a game, just helped some friends with game design and coding.</p>
+<p align="left"> <br>📚 I'm currently learning C, Python, JS, HTML and CSS <br>🎯 Goals: Finally publish a game <br>🎲 Fun fact: I never published a game, just helped some friends with game design and coding.</p>

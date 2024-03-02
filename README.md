@@ -10,17 +10,4 @@
 
 ###
 
-<p align="left">✨ Creating C programs since 2024 <br>📚 I'm currently learning C <br>🎯 Goals: Finally publish a game <br>🎲 Fun fact: I never published a game, just helped some friends with game design and coding.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-</div>
-
-###
+<p align="left"> <br>📚 I'm currently learning C, Python, HTML and CSS <br>🎯 Goals: Finally publish a game <br>🎲 Fun fact: I never published a game, just helped some friends with game design and coding.</p>

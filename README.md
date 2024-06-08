@@ -1,12 +1,12 @@
-<h3 align="left">Olá, meu nome é Caio.</h3>
+<h2 align="left">Olá, meu nome é Caio.</h2>
 
 ###
 
-<p align="left">Estou cursando Análise de Sistemas e aprendendo a fazer websites.</p>
+<h3 align="left">Estou cursando Análise de Sistemas e aprendendo a fazer websites.</h3>
 
 ###
 
-<h4 align="left">Linguagens de programação que uso:</h4>
+<h2 align="left">Linguagens de programação que uso:</h2>
 
 ###
 

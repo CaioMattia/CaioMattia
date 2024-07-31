@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/wrS76Xn/20230326-104407-removebg-preview.png"  />
+  <img height="200" src="https://giphy.com/gifs/serial-experiments-lain-udK21RQeWtaGQ"  />
 </div>
 
 ###

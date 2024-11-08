@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Estou cursando Análise de Sistemas e aprendendo a fazer websites.</h3>
+<h3 align="left">Estou cursando Análise de Sistemas e criando um jogo estilo Yandere Simulator (Love Sick)</h3>
 
 ###
 
@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://giphy.com/gifs/serial-experiments-lain-udK21RQeWtaGQ"  />
+  <img height="200" src="https://giphy.com/gifs/serial-experiments-lain-udK21RQeWtaGQ](https://media.stickerswiki.app/ayanochan/2848417.512.webp)"  />
 </div>
 
 ###

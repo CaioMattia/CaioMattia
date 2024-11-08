@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://giphy.com/gifs/serial-experiments-lain-udK21RQeWtaGQ](https://media.stickerswiki.app/ayanochan/2848417.512.webp)"  />
+  <img height="200" src="https://media.stickerswiki.app/ayanochan/2848417.512.webp"  />
 </div>
 
 ###

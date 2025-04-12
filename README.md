@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Estou cursando Análise de Sistemas e criando um jogo estilo Yandere Simulator (Love Sick)</h3>
+<h3 align="left">Programando desde os 12 anos.</h3>
 
 ###
 

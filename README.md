@@ -1,29 +1,31 @@
-<h2 align="left">Olá, meu nome é Caio.</h2>
+<h1 align="left">Opa👋, Meu nome é Caio</h1>
 
 ###
 
-<h3 align="left">Programando desde os 12 anos.</h3>
+<p align="left">Game Dev cursando Jogos Digitais, Estudando desde os 12 anos.</p>
 
 ###
 
-<h2 align="left">Linguagens de programação que uso:</h2>
+<h1 align="left">Eu uso</h1>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.stickerswiki.app/ayanochan/2848417.512.webp"  />
+  <img height="200" src="https://camo.githubusercontent.com/067d7d92ceb82ef9867fc049b51db40988851d67c28975ed367a8e2bdfe840d5/68747470733a2f2f6d656469612e737469636b65727377696b692e6170702f6179616e6f6368616e2f323834383431372e3531322e77656270"  />
 </div>
 
 ###

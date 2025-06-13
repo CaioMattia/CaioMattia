@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Game Dev cursando Jogos Digitais, Estudando desde os 12 anos.</p>
+<p align="left">Game Dev cursando Jogos Digitais.</p>
 
 ###
 

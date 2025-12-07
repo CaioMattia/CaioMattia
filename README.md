@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2018<br>📚  Estudando ADS na FB Uni</p>
+<p align="left">✨ Programando desde 2018<br>📚  Estudando ADS</p>
 
 ###
 
